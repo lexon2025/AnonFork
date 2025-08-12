@@ -14,7 +14,7 @@ from typing import Union
 
 from pyrogram.types import InlineKeyboardButton
 
-from config import GITHUB_REPO, SUPPORT_CHANNEL, SUPPORT_GROUP, OWNER_ID
+from config import BUYUSERBOT, SUPPORT_CHANNEL, SUPPORT_GROUP, OWNER_ID
 from HakutakaMusic import app
 
 
@@ -75,18 +75,18 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             )
         ]
     )
-    if GITHUB_REPO and OWNER_ID:
+    if BUYUSERBOT and OWNER_ID:
         buttons.append(
             [
                 InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER_ID),
-                InlineKeyboardButton(text=_["S_B_6"], url=f"{GITHUB_REPO}"),
+                InlineKeyboardButton(text=_["S_B_6"], url=f"{BUYUSERBOT}"),
             ]
         )
     else:
-        if GITHUB_REPO:
+        if BUYUSERBOT:
             buttons.append(
                 [
-                    InlineKeyboardButton(text=_["S_B_6"], url=f"{GITHUB_REPO}"),
+                    InlineKeyboardButton(text=_["S_B_6"], url=f"{BUYUSERBOT}"),
                 ]
             )
         if OWNER:
