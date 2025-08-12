@@ -9,10 +9,10 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/TheTeamAlexa/HakutakaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/HakutakaMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/HakutakaMusic/commits"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/HakutakaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/HakutakaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/HakutakaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/HakutakaMusic/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/HakutakaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/lexon2025/HakutakaMusic"> <img src="https://img.shields.io/github/repo-size/lexon2025/HakutakaMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/lexon2025/HakutakaMusic/commits"> <img src="https://img.shields.io/github/last-commit/lexon2025/HakutakaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/lexon2025/HakutakaMusic/issues"> <img src="https://img.shields.io/github/issues/lexon2025/HakutakaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/lexon2025/HakutakaMusic/network/members"> <img src="https://img.shields.io/github/forks/lexon2025/HakutakaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram"> <img src="https://img.shields.io/pypi/v/Pyrogram?color=yellow&label=Pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -21,7 +21,7 @@
 
 Due to YouTube blocking ips, we found a fix. Given below:
 
-• **Join Support Group**: Type `#cookies` in our [sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/DemusIndonesia) to get the necessary extension link.
+• **Join Support Group**: Type `#cookies` in our [sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/musik_supportdan) to get the necessary extension link.
 
 • **Run the Extension**: Download [Firefox](https://www.mozilla.org) and login your youtube account<b>(Fake Account Recommended)</b> then run the downloaded extension on your Firefox or any other Software to generate cookies.
 
@@ -112,9 +112,9 @@ Through this repository, we hope to share our passion for music and innovation w
 
 <summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ʜᴀᴋᴜ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ʜᴀᴋᴜ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @mhmdwldnnnn 
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/HakutakaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/lexon2025/HakutakaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
@@ -142,7 +142,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FHakutakaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
-<p><a href="https://github.com/TheTeamAlexa/HakutakaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a></p>
+<p><a href="https://github.com/lexon2025/HakutakaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a></p>
 <br>
 
 <h4><b>💻 Lᴏᴄᴀʟ Hᴏsᴛɪɴɢ ᴏʀ VPS Dᴇᴘʟᴏʏᴍᴇɴᴛ Gᴜɪᴅᴇ. 🗄️</b></h4> 
