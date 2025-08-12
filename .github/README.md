@@ -139,7 +139,7 @@ Through this repository, we hope to share our passion for music and innovation w
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʜᴀᴋᴜ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FHakutakaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flexon2025%2FHakutakaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
 <p><a href="https://github.com/lexon2025/HakutakaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a></p>
